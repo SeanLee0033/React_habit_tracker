@@ -27,7 +27,7 @@ button {
   height: 2.5rem;
   line-height: 2.5rem;
   margin-left: 0.2em;
-  background-color: green;
+  background-color: rgb(42, 146, 19);
   color: white;
   border-radius: 50%;
 }
