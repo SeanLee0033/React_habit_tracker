@@ -96,6 +96,6 @@ button {
 .habits-reset {
   font-size: 1.5rem;
   padding: 0.2em 1em;
-  background-color: green;
+  background-color: rgb(75, 166, 36);
   color: white;
 }
