@@ -90,7 +90,7 @@ button {
 
 .habit-delete {
   font-size: 2rem;
-  color: darkred;
+  color: rgb(221, 95, 95);
 }
 
 .habits-reset {
